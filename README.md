@@ -1,2 +1,2 @@
 # Simon-Game
-This is the simple simon game using HTML,CSS and JS.
+This code is a simple game that simulates a memory game where the user needs to remember and repeat a sequence of colors. The game uses HTML, CSS, and JavaScript to create colored boxes that the user can click on to repeat a sequence. As the user progresses, the score is updated and the game becomes more challenging. The game features logic for adding to the sequence, showing the sequence to the user, handling user input, updating the score, and resetting the game. Enjoy testing your memory skills with this fun and interactive game!
